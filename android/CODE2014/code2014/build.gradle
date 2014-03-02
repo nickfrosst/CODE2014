@@ -1,0 +1,40 @@
+apply plugin: 'android'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.0.0"
+
+    signingConfigs {
+        debug {
+            storeFile file("../code2014-dev.keystore")
+            storePassword "6sy0saX9yO"
+            keyAlias "code2014"
+            keyPassword "6sy0saX9yO"
+        }
+    }
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 19
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        debug {
+            debuggable true
+            runProguard false
+            signingConfig signingConfigs.debug
+        }
+        release {
+            debuggable false
+            runProguard true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-v4:19.0.+'
+    compile 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
+}

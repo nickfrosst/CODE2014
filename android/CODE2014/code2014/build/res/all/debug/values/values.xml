@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="orange">#EE4000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="view_pager_tick_padding">8dp</dimen>
+    <dimen name="view_pager_tick_radius">4dp</dimen>
+    <!-- From: file:/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Gavel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help_text">Type a keyword above to search Canadian Law</string>
+    <string name="hint_text">Tap an Act to explore!</string>
+    <string name="no_results_text">No results found. Try again? :(</string>
+    <string name="search_hint">Type to search</string>
+    <string name="title_activity_code2014">Code2014Activity</string>
+    <!-- From: file:/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar">
+
+        <!-- Customize your theme here. -->
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

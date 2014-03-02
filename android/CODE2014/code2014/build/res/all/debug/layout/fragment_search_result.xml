@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ProgressBar
+        android:id="@+id/loadingSpinner"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+    <com.canadianopendataexperience.datadrop.code2014.TagCloudView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.canadianopendataexperience.datadrop.code2014.TagCloudView"
+        android:id="@+id/TagCloudView"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tapHint"
+        android:layout_marginTop="40dp"
+        android:layout_below="@id/loadingSpinner"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:visibility="visible"
+        android:text="@string/hint_text"
+        android:textSize="20dp"
+        android:textColor="@color/white"/>
+
+</RelativeLayout><!-- From: file:/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/layout/fragment_search_result.xml -->

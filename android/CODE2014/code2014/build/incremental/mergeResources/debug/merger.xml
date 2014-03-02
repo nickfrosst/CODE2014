@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res" >
+            <file
+                name="ic_action_search"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/drawable-hdpi/ic_action_search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/drawable-mdpi/ic_action_search.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="book_icon"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/drawable-xhdpi/book_icon.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/drawable-xhdpi/ic_action_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/drawable-xxhdpi/ic_action_search.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_code2014"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/layout/activity_code2014.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_search"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/layout/fragment_search.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_search_result"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/layout/fragment_search_result.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_code2014"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/layout-land/activity_code2014.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="activity_code2014"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/layout-sw600dp-land/activity_code2014.xml"
+                qualifiers="sw600dp-land"
+                type="layout" />
+            <file
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="orange" >#EE4000
+                </color>
+            </file>
+            <file
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="view_pager_tick_radius" >4dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="view_pager_tick_padding" >8dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="no_results_text" >No results found. Try again? :(
+                </string>
+                <string name="help_text" >Type a keyword above to search Canadian Law
+                </string>
+                <string name="hint_text" >Tap an Act to explore!
+                </string>
+                <string name="app_name" >Gavel
+                </string>
+                <string name="search_hint" >Type to search
+                </string>
+                <string name="title_activity_code2014" >Code2014Activity
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.NoActionBar" >
+
+                    <!-- Customize your theme here. -->
+                    <item name="android:fitsSystemWindows">
+true
+                    </item>
+                    <item name="android:windowActionBar">
+false
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" >
+                <dimen name="activity_vertical_margin" >32dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >32dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values-v19/styles.xml"
+                qualifiers="v19" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.NoActionBar.TranslucentDecor" >
+
+                    <!-- Customize your theme here. -->
+                    <item name="android:windowTranslucentStatus">
+true
+                    </item>
+                    <item name="android:windowTranslucentNavigation">
+true
+                    </item>
+                    <item name="android:fitsSystemWindows">
+true
+                    </item>
+                    <item name="android:windowActionBar">
+false
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+        </source>
+        <source path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/build/res/rs/debug" />
+        <source path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/debug/res" />
+    </dataSet>
+
+</merger>

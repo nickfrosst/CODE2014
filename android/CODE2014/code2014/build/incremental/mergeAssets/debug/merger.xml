@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/assets" >
+            <file
+                name="databases/act.db"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/assets/databases/act.db" />
+            <file
+                name="fonts/Roboto-Bold.ttf"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/assets/fonts/Roboto-Bold.ttf" />
+            <file
+                name="fonts/Roboto-Light.ttf"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/assets/fonts/Roboto-Light.ttf" />
+            <file
+                name="fonts/Roboto-Regular.ttf"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/assets/fonts/Roboto-Regular.ttf" />
+            <file
+                name="fonts/Roboto-Thin.ttf"
+                path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/assets/fonts/Roboto-Thin.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/debug/assets" />
+    </dataSet>
+
+</merger>

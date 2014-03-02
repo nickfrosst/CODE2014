@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/arminmaurice/projects/CODE2014/android/CODE2014/code2014/src/main/res/values-v19/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar.TranslucentDecor">
+
+        <!-- Customize your theme here. -->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

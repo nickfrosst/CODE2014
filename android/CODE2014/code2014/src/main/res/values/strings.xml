@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gavel</string>
+    <string name="title_activity_code2014">Code2014Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_hint">Type to search</string>
+    <string name="help_text">Type a keyword above to search Canadian Law</string>
+    <string name="no_results_text">No results found. Try again? :(</string>
+    <string name="hint_text">Tap an Act to explore!</string>
+</resources>
